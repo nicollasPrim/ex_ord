@@ -1,0 +1,12 @@
+body{
+    font-family: 'Cooper';
+    font-size: 16px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+button, input{
+    border-radius: 5px;
+    background-color: cadetblue;
+    color: white;
+}
